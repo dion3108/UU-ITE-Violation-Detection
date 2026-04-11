@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "indobenchmark/indobert-base-p2", "repoType": "model", "commitHash": "94b4e0a82081fa57f227fcc2024d1ea89b57ac1f", "filePaths": ["tokenizer_config.json", "special_tokens_map.json", "config.json", "vocab.txt", "pytorch_model.bin"]}]}

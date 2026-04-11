@@ -1,0 +1,34 @@
+# Virtual Environments
+.venv/
+venv/
+uu-ite-py*/
+uu-ite2/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Large Data Files (consider using Git LFS or DVC)
+data/external/cc.id.300.vec/
+outputs/*/checkpoints/*.pt
+outputs/*/checkpoints/*.h5
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Thesis Templates
+Template_TA*/
+
+# Archive of old superseded files
+_archive/
+
+# Jupyter
+.ipynb_checkpoints/

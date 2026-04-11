@@ -1,0 +1,147 @@
+[2025-12-17 10:40:31] [INFO] MEMULAI SCRAPING KOMENTAR YOUTUBE
+[2025-12-17 10:40:31] [INFO] Target: 1 video, Max 1000 komentar per video
+[2025-12-17 10:40:31] [INFO] Output: youtube_comments(3).csv
+[2025-12-17 10:40:31] [INFO] ----------------------------------------------------------------------
+[2025-12-17 10:40:31] [INFO] 
+======================================================================
+[2025-12-17 10:40:31] [INFO] Video 1/1: https://www.youtube.com/watch?v=DPqvYfF5R6Q
+[2025-12-17 10:40:32] [INFO] Mulai mengumpulkan komentar untuk video: 'Jangan Beli Laptop Lokal ODM... kalau....' - DPqvYfF5R6Q
+[2025-12-17 10:40:33] [PROGRESS] Halaman 1: Memproses 100 komentar utama
+[2025-12-17 10:40:33] [PROGRESS]   [█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.0% (10/100)
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 11/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 15/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 18/100 memiliki 2 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 19/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 20/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   [██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 20.0% (20/100)
+[2025-12-17 10:40:33] [PROGRESS]   [███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 30.0% (30/100)
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 33/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 35/100 memiliki 3 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 37/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 39/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   [████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 40.0% (40/100)
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 42/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 46/100 memiliki 2 balasan
+[2025-12-17 10:40:33] [PROGRESS]   [█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░] 50.0% (50/100)
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 52/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 53/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 59/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   [██████████████████████████████░░░░░░░░░░░░░░░░░░░░] 60.0% (60/100)
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 61/100 memiliki 3 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 62/100 memiliki 3 balasan
+[2025-12-17 10:40:33] [PROGRESS]   [███████████████████████████████████░░░░░░░░░░░░░░░] 70.0% (70/100)
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 71/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   [████████████████████████████████████████░░░░░░░░░░] 80.0% (80/100)
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 84/100 memiliki 3 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 87/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   [█████████████████████████████████████████████░░░░░] 90.0% (90/100)
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 91/100 memiliki 2 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 96/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   Komentar 97/100 memiliki 1 balasan
+[2025-12-17 10:40:33] [PROGRESS]   [██████████████████████████████████████████████████] 100.0% (100/100)
+[2025-12-17 10:40:33] [SUCCESS] Halaman 1 selesai: 133 item (103.5 item/detik) - Total: 133
+[2025-12-17 10:40:33] [INFO] Menunggu 1.0 detik sebelum halaman berikutnya...
+[2025-12-17 10:40:35] [PROGRESS] Halaman 2: Memproses 100 komentar utama
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 1/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 4/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 5/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 6/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 8/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 9/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 10/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.0% (10/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 11/100 memiliki 3 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 14/100 memiliki 3 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 16/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 18/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 19/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 20/100 memiliki 3 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 20.0% (20/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 22/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 24/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 25/100 memiliki 3 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 26/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 28/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 29/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 30/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 30.0% (30/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 31/100 memiliki 4 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 33/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 34/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 39/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 40/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 40.0% (40/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 42/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 47/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 50/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░] 50.0% (50/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 51/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 52/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 54/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 57/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 58/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [██████████████████████████████░░░░░░░░░░░░░░░░░░░░] 60.0% (60/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 62/100 memiliki 4 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 63/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 64/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 65/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 66/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 69/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [███████████████████████████████████░░░░░░░░░░░░░░░] 70.0% (70/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 71/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 73/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 76/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 77/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 79/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 80/100 memiliki 4 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [████████████████████████████████████████░░░░░░░░░░] 80.0% (80/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 81/100 memiliki 4 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 82/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 83/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 84/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 85/100 memiliki 4 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 86/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 87/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 88/100 memiliki 4 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 89/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 90/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [█████████████████████████████████████████████░░░░░] 90.0% (90/100)
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 91/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 93/100 memiliki 1 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 96/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 97/100 memiliki 4 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 98/100 memiliki 5 balasan
+[2025-12-17 10:40:35] [PROGRESS]   Komentar 100/100 memiliki 2 balasan
+[2025-12-17 10:40:35] [PROGRESS]   [██████████████████████████████████████████████████] 100.0% (100/100)
+[2025-12-17 10:40:35] [SUCCESS] Halaman 2 selesai: 247 item (228.1 item/detik) - Total: 380
+[2025-12-17 10:40:35] [INFO] Menunggu 0.4 detik sebelum halaman berikutnya...
+[2025-12-17 10:40:36] [PROGRESS] Halaman 3: Memproses 14 komentar utama
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 1/14 memiliki 5 balasan
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 2/14 memiliki 5 balasan
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 5/14 memiliki 5 balasan
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 6/14 memiliki 2 balasan
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 7/14 memiliki 5 balasan
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 8/14 memiliki 5 balasan
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 9/14 memiliki 5 balasan
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 10/14 memiliki 2 balasan
+[2025-12-17 10:40:36] [PROGRESS]   [███████████████████████████████████░░░░░░░░░░░░░░░] 71.4% (10/14)
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 11/14 memiliki 5 balasan
+[2025-12-17 10:40:36] [PROGRESS]   Komentar 13/14 memiliki 1 balasan
+[2025-12-17 10:40:36] [PROGRESS]   [██████████████████████████████████████████████████] 100.0% (14/14)
+[2025-12-17 10:40:36] [SUCCESS] Halaman 3 selesai: 54 item (125.2 item/detik) - Total: 434
+[2025-12-17 10:40:36] [INFO] Tidak ada halaman komentar lebih lanjut
+[2025-12-17 10:40:36] [SUCCESS] Selesai mengumpulkan 434 item untuk video DPqvYfF5R6Q
+[2025-12-17 10:40:36] [SUCCESS] Video 1/1: Berhasil mengumpulkan 434 item dalam 0m 5s
+[2025-12-17 10:40:36] [INFO] Menyimpan 434 item ke CSV...
+[2025-12-17 10:40:36] [SUCCESS] Berhasil menyimpan 434 item ke youtube_comments(3).csv
+[2025-12-17 10:40:36] [INFO] 
+======================================================================
+[2025-12-17 10:40:36] [INFO] RINGKASAN PENGUMPULAN KOMENTAR YOUTUBE
+[2025-12-17 10:40:36] [INFO] ======================================================================
+[2025-12-17 10:40:36] [INFO] Total video yang diproses: 1
+[2025-12-17 10:40:36] [SUCCESS] Video berhasil: 1
+[2025-12-17 10:40:36] [INFO] Video gagal: 0
+[2025-12-17 10:40:36] [INFO] Total komentar yang dikumpulkan: 434
+[2025-12-17 10:40:36] [INFO] Total waktu eksekusi: 0m 5s
+[2025-12-17 10:40:36] [INFO] Hasil disimpan ke: youtube_comments(3).csv
+[2025-12-17 10:40:36] [INFO] Log disimpan ke: youtube_scraper_log_20251217_104031.txt
