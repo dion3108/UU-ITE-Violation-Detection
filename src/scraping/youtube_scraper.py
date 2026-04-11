@@ -5,8 +5,13 @@ import time
 import sys
 from datetime import datetime
 
-# Masukkan API Key YouTube Data API Anda di sini
-api_key = 'YOUR_YOUTUBE_API_KEY_HERE'
+# Load API Key from environment variable (NEVER hardcode keys in source code)
+# Set it in your terminal: export YOUTUBE_API_KEY="your_key_here"
+# Or create a .env file and load with python-dotenv
+api_key = os.environ.get('YOUTUBE_API_KEY')
+if not api_key:
+    raise ValueError("YOUTUBE_API_KEY environment variable is not set. "
+                     "Run: export YOUTUBE_API_KEY='your_api_key_here'")
 
 # Daftar URL video yang akan discrape (tambahkan atau ubah sesuai kebutuhan)
 VIDEO_URLS = [
