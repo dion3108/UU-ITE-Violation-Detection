@@ -10,10 +10,13 @@ __pycache__/
 *.pyo
 *.egg-info/
 
+# Large Model Files (share via Google Drive or Hugging Face)
+*.pt
+*.h5
+*.pickle
+
 # Large Data Files (consider using Git LFS or DVC)
 data/external/cc.id.300.vec/
-outputs/*/checkpoints/*.pt
-outputs/*/checkpoints/*.h5
 *.zip
 
 # IDE
